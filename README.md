@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Baskoro Aji</h1>
 <h3 align="center">A backend developer sometimes do frontend</h3>
 
-- 🌱 I’m currently learning **Go Language and more in depth of Spring Boot**
+- 🌱 I’m currently learning **Go Language, more in depth of Spring Boot, and Microservices**
 
 - ⚡ Fun fact **maybe im a dumbass**
 
