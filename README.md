@@ -6,6 +6,7 @@
 - ⚡ Fun fact **maybe im a dumbass**
 
 <h3 align="left">Connect with me:</h3>
+<a align = "left" href="https://www.linkedin.com/in/mohamad-baskoro-aji25/">LinkedIn</a>
 <p align="left">
 </p>
 
