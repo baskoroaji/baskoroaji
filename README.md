@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Go Language, more in depth of Spring Boot, and Microservices**
 
-- ⚡ Fun fact **maybe im a dumbass**
+- ⚡ Fun fact **I like rhythm game**
 
 <h3 align="left">Connect with me:</h3>
 <a align = "left" href="https://www.linkedin.com/in/mohamad-baskoro-aji25/">LinkedIn</a>
