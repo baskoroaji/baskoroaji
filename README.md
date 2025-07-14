@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Baskoro Aji</h1>
-<h3 align="center">A backend developer sometimes do frontend</h3>
+<h3 align="center">A Machine Learning and Data Science developer also like web dev</h3>
 
 - 🌱 I’m currently learning **AI and Data Science**
 
